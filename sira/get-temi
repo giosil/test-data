@@ -1,0 +1,32 @@
+[
+    {
+        "id_tema": 1,
+        "codice": "AR",
+        "descrizione": "ARIA"
+    },
+    {
+        "id_tema": 2,
+        "codice": "AC",
+        "descrizione": "ACQUA"
+    },
+    {
+        "id_tema": 3,
+        "codice": "PR",
+        "descrizione": "PRESSIONI"
+    },
+    {
+        "id_tema": 5,
+        "codice": "NA",
+        "descrizione": "NATURA"
+    },
+    {
+        "id_tema": 6,
+        "codice": "SU",
+        "descrizione": "SUOLO"
+    },
+    {
+        "id_tema": 7,
+        "codice": "AF",
+        "descrizione": "AGENTI FISICI"
+    }
+]
