@@ -1,0 +1,922 @@
+[
+    {
+        "ost_codice": "ITR12MOS_ACQUEALTE_15IN7T",
+        "denominazione": "Canale Acque alte/Moscarello 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12MOS_ACQUEALTE_15SS2T",
+        "denominazione": "Canale Acque alte/Moscarello 2",
+        "2015-2017": "0.394"
+    },
+    {
+        "ost_codice": "ITR12RMA_ACQUEMEDIE_15SS1T",
+        "denominazione": "Canale Acque medie/Rio Martino 1",
+        "2015-2017": "0.752"
+    },
+    {
+        "ost_codice": "ITR12RMA_ACQUEMEDIE_15SS2T",
+        "denominazione": "Canale Acque medie/Rio Martino 2",
+        "2015-2017": "0.506"
+    },
+    {
+        "ost_codice": "ITR12RMA_ACQUEMEDIE_15SS3T",
+        "denominazione": "Canale Acque medie/Rio Martino 3",
+        "2015-2017": "0.833"
+    },
+    {
+        "ost_codice": "ITR12BAD_BOTTE_15SS2T",
+        "denominazione": "Canale Botte 1",
+        "2015-2017": "0.406"
+    },
+    {
+        "ost_codice": "ITR12BAD_LINEAPIO_15SS2T",
+        "denominazione": "Canale Linea Pio 1",
+        "2015-2017": "0.606"
+    },
+    {
+        "ost_codice": "ITN010_SSUSANNA_13SR2T",
+        "denominazione": "Canale S. Susanna 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12BAD_AMASENO_15SR1T",
+        "denominazione": "Fiume Amaseno 1",
+        "2015-2017": "0.262"
+    },
+    {
+        "ost_codice": "ITR12BAD_AMASENO_15SR2T",
+        "denominazione": "Fiume Amaseno 2",
+        "2015-2017": "0.552"
+    },
+    {
+        "ost_codice": "ITR12BAD_AMASENO_15SS3T",
+        "denominazione": "Fiume Amaseno 3",
+        "2015-2017": "0.848"
+    },
+    {
+        "ost_codice": "ITN010_ANIENE_13SR1T",
+        "denominazione": "Fiume Aniene 1",
+        "2015-2017": "0.62"
+    },
+    {
+        "ost_codice": "ITN010_ANIENE_13SR2T",
+        "denominazione": "Fiume Aniene 2",
+        "2015-2017": "0.75"
+    },
+    {
+        "ost_codice": "ITN010_ANIENE_13SS3T",
+        "denominazione": "Fiume Aniene 3",
+        "2015-2017": "1.26"
+    },
+    {
+        "ost_codice": "ITN010_ANIENE_13SS4T",
+        "denominazione": "Fiume Aniene 4",
+        "2015-2017": "0.66"
+    },
+    {
+        "ost_codice": "ITN010_ANIENE_14SS4F",
+        "denominazione": "Fiume Aniene 5",
+        "2015-2017": "0.85"
+    },
+    {
+        "ost_codice": "ITR12ARS_FARRONE_14GL1T",
+        "denominazione": "Fiume Arrone 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12ARS_FARRONE_14SS3T",
+        "denominazione": "Fiume Arrone 2",
+        "2015-2017": "0.703"
+    },
+    {
+        "ost_codice": "ITR12AST_ASTURA_14SS2T",
+        "denominazione": "Fiume Astura 1",
+        "2015-2017": "0.452"
+    },
+    {
+        "ost_codice": "ITR12AST_ASTURA_15SS2T",
+        "denominazione": "Fiume Astura 2",
+        "2015-2017": "0.468"
+    },
+    {
+        "ost_codice": "ITR12BAD_CAVATA_15SR2T",
+        "denominazione": "Fiume Cavata 1",
+        "2015-2017": "0.641"
+    },
+    {
+        "ost_codice": "ITN005_FCOSA_13SR1T",
+        "denominazione": "Fiume Cosa 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_FCOSA_13SS2T",
+        "denominazione": "Fiume Cosa 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_FCOSA_13SS3T",
+        "denominazione": "Fiume Cosa 3",
+        "2015-2017": "0.438"
+    },
+    {
+        "ost_codice": "ITN005_FIBRENO_13AS1T",
+        "denominazione": "Fiume Fibreno 1",
+        "2015-2017": "0.723"
+    },
+    {
+        "ost_codice": "ITN005_FIBRENO_13SS2T",
+        "denominazione": "Fiume Fibreno 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITI014_FIORA_14SS3D",
+        "denominazione": "Fiume Fiora 1",
+        "2015-2017": "0.897"
+    },
+    {
+        "ost_codice": "ITI014_FIORA_11SS4F",
+        "denominazione": "Fiume Fiora 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_GARI_13SR1T",
+        "denominazione": "Fiume Gari 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_GARI_13SR2T",
+        "denominazione": "Fiume Gari 2",
+        "2015-2017": "0.675"
+    },
+    {
+        "ost_codice": "ITN005_GARIGLIANO_13SS1T",
+        "denominazione": "Fiume Garigliano 1",
+        "2015-2017": "1.143"
+    },
+    {
+        "ost_codice": "ITN005_GARIGLIANO_15SS2T",
+        "denominazione": "Fiume Garigliano 2",
+        "2015-2017": "1.048"
+    },
+    {
+        "ost_codice": "ITN005_GARIGLIANO_15SS3T",
+        "denominazione": "Fiume Garigliano 3",
+        "2015-2017": "0.915"
+    },
+    {
+        "ost_codice": "ITN005_LIRI_MONTE_13SS3T",
+        "denominazione": "Fiume Liri (a monte) 1",
+        "2015-2017": "1.035"
+    },
+    {
+        "ost_codice": "ITN005_LIRI_MONTE_13SS4T",
+        "denominazione": "Fiume Liri (a monte) 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_LIRI_VALLE_13SS1T",
+        "denominazione": "Fiume Liri (a valle) 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_LIRI_VALLE_13SS2T",
+        "denominazione": "Fiume Liri (a valle) 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_LIRI_VALLE_13SS3T",
+        "denominazione": "Fiume Liri (a valle) 3",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12MAR_MARTA_14GL1T",
+        "denominazione": "Fiume Marta 1",
+        "2015-2017": "0.695"
+    },
+    {
+        "ost_codice": "ITR12MAR_MARTA_14SS3T_01",
+        "denominazione": "Fiume Marta 2",
+        "2015-2017": "0.565"
+    },
+    {
+        "ost_codice": "ITR12MAR_MARTA_14SS3T_02",
+        "denominazione": "Fiume Marta 3",
+        "2015-2017": "0.664"
+    },
+    {
+        "ost_codice": "ITN005_MELFA_13SR1T",
+        "denominazione": "Fiume Melfa 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_MELFA_13SS2T",
+        "denominazione": "Fiume Melfa 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_MELFA_13SS3T",
+        "denominazione": "Fiume Melfa 3",
+        "2015-2017": "0.688"
+    },
+    {
+        "ost_codice": "ITR12MIG_MIGNONE_14SS1T",
+        "denominazione": "Fiume Mignone 1",
+        "2015-2017": "0.484"
+    },
+    {
+        "ost_codice": "ITR12MIG_MIGNONE_14SS2T",
+        "denominazione": "Fiume Mignone 2",
+        "2015-2017": "0.46"
+    },
+    {
+        "ost_codice": "ITR12MIG_MIGNONE_14SS3T",
+        "denominazione": "Fiume Mignone 3",
+        "2015-2017": "0.728"
+    },
+    {
+        "ost_codice": "ITN005_MOLLARINO_13SS1T",
+        "denominazione": "Fiume Mollarino 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_MOLLARINO_13SS2T",
+        "denominazione": "Fiume Mollarino 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12RMA_NINFASISTO_15SR1T",
+        "denominazione": "Fiume Ninfa Sisto 1",
+        "2015-2017": "0.862"
+    },
+    {
+        "ost_codice": "ITR12RMA_NINFASISTO_15SS2T",
+        "denominazione": "Fiume Ninfa Sisto 2",
+        "2015-2017": "0.552"
+    },
+    {
+        "ost_codice": "ITR12RMA_NINFASISTO_15SS3T",
+        "denominazione": "Fiume Ninfa Sisto 3",
+        "2015-2017": "0.58"
+    },
+    {
+        "ost_codice": "ITI014_OLPETA_14IN7T",
+        "denominazione": "Fiume Olpeta 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITI014_OLPETA_14SS3T",
+        "denominazione": "Fiume Olpeta 2",
+        "2015-2017": "0.59"
+    },
+    {
+        "ost_codice": "ITN010_PAGLIA_11SS2T",
+        "denominazione": "Fiume Paglia 1",
+        "2015-2017": "1.573"
+    },
+    {
+        "ost_codice": "ITN010_PAGLIA_11SS3T",
+        "denominazione": "Fiume Paglia 2",
+        "2015-2017": "1.095"
+    },
+    {
+        "ost_codice": "ITN010_PESCHIERA_13SR1T",
+        "denominazione": "Fiume Peschiera 1",
+        "2015-2017": "0.83"
+    },
+    {
+        "ost_codice": "ITR12BAD_PORTATORE_15SS2T",
+        "denominazione": "Fiume Portatore 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_RAPIDO_13SR1T",
+        "denominazione": "Fiume Rapido 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_RAPIDO_13SS3T",
+        "denominazione": "Fiume Rapido 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_RATTO_13IN7T",
+        "denominazione": "Fiume Ratto 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_SACCO_14SS1T",
+        "denominazione": "Fiume Sacco 1",
+        "2015-2017": "0.65"
+    },
+    {
+        "ost_codice": "ITN005_SACCO_14SS2T",
+        "denominazione": "Fiume Sacco 2",
+        "2015-2017": "0.44"
+    },
+    {
+        "ost_codice": "ITN005_SACCO_15SS3D",
+        "denominazione": "Fiume Sacco 3",
+        "2015-2017": "0.38"
+    },
+    {
+        "ost_codice": "ITN005_SACCO_13SS3T",
+        "denominazione": "Fiume Sacco 4",
+        "2015-2017": "0.47"
+    },
+    {
+        "ost_codice": "ITN005_SACCO_13SS4T",
+        "denominazione": "Fiume Sacco 5",
+        "2015-2017": "0.752"
+    },
+    {
+        "ost_codice": "ITN010_SALTO_MONTE_13SS3T",
+        "denominazione": "Fiume Salto (a monte) 1",
+        "2015-2017": "0.7"
+    },
+    {
+        "ost_codice": "ITN010_SALTO_VALLE_13GL1T",
+        "denominazione": "Fiume Salto (a valle) 1",
+        "2015-2017": "0.8"
+    },
+    {
+        "ost_codice": "ITN010_SALTO_VALLE_13SS2T",
+        "denominazione": "Fiume Salto (a valle) 2",
+        "2015-2017": "0.79"
+    },
+    {
+        "ost_codice": "ITN010_TEVERE_11SS5T_01",
+        "denominazione": "Fiume Tevere 1",
+        "2015-2017": "0.912"
+    },
+    {
+        "ost_codice": "ITN010_TEVERE_11SS5T_02",
+        "denominazione": "Fiume Tevere 2",
+        "2015-2017": "0.658"
+    },
+    {
+        "ost_codice": "ITN010_TEVERE_14SS5D_01",
+        "denominazione": "Fiume Tevere 3",
+        "2015-2017": "0.86"
+    },
+    {
+        "ost_codice": "ITN010_TEVERE_14SS5D_02",
+        "denominazione": "Fiume Tevere 4",
+        "2015-2017": "0.58"
+    },
+    {
+        "ost_codice": "ITN010_TEVERE_14SS5D_03",
+        "denominazione": "Fiume Tevere 5",
+        "2015-2017": "0.84"
+    },
+    {
+        "ost_codice": "ITN010_TRONTO_13SS1T",
+        "denominazione": "Fiume Tronto 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_TRONTO_13SS2T",
+        "denominazione": "Fiume Tronto 2",
+        "2015-2017": "0.76"
+    },
+    {
+        "ost_codice": "ITN010_TURANO_MONTE_13SR3T",
+        "denominazione": "Fiume Turano (a monte) 1",
+        "2015-2017": "0.67"
+    },
+    {
+        "ost_codice": "ITN010_TURANO_VALLE_13GL1T",
+        "denominazione": "Fiume Turano (a valle) 1",
+        "2015-2017": "0.72"
+    },
+    {
+        "ost_codice": "ITN010_TURANO_VALLE_13SS2T",
+        "denominazione": "Fiume Turano (a valle) 2",
+        "2015-2017": "0.75"
+    },
+    {
+        "ost_codice": "ITN010_TURANO_VALLE_13SS3T",
+        "denominazione": "Fiume Turano (a valle) 3",
+        "2015-2017": "1.13"
+    },
+    {
+        "ost_codice": "ITR12BAD_UFENTE_15SR1T",
+        "denominazione": "Fiume Ufente 1",
+        "2015-2017": "0.606"
+    },
+    {
+        "ost_codice": "ITR12BAD_UFENTE_15SS2T",
+        "denominazione": "Fiume Ufente 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_VELINO_13SR1T",
+        "denominazione": "Fiume Velino 1",
+        "2015-2017": "0.71"
+    },
+    {
+        "ost_codice": "ITN010_VELINO_13SS2T",
+        "denominazione": "Fiume Velino 2",
+        "2015-2017": "0.72"
+    },
+    {
+        "ost_codice": "ITN010_VELINO_13SS3T",
+        "denominazione": "Fiume Velino 3",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_VELINO_13SS4T",
+        "denominazione": "Fiume Velino 4",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_BAGNAT_13SS2T",
+        "denominazione": "Fosso Bagnatore 1",
+        "2015-2017": "0.71"
+    },
+    {
+        "ost_codice": "ITN010_CORESE_13SS1T",
+        "denominazione": "Fosso Corese 1",
+        "2015-2017": "0.88"
+    },
+    {
+        "ost_codice": "ITN010_CORESE_13SS3T",
+        "denominazione": "Fosso Corese 2",
+        "2015-2017": "0.71"
+    },
+    {
+        "ost_codice": "ITN010_CORESE_14SS3F",
+        "denominazione": "Fosso Corese 3",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_CORNO_13SS1T",
+        "denominazione": "Fosso Corno 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_CORNO_13SS2T",
+        "denominazione": "Fosso Corno 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_CONA_13IN7T",
+        "denominazione": "Fosso della Cona 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_TORRAC_14IN7T",
+        "denominazione": "Fosso della Torraccia 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_TORRAC_14SS2T",
+        "denominazione": "Fosso della Torraccia 2",
+        "2015-2017": "0.31"
+    },
+    {
+        "ost_codice": "ITR12MIG-ARS_CADUTE_14IN7T",
+        "denominazione": "Fosso delle Cadute 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12MIG-ARS_CADUTE_14SS2T",
+        "denominazione": "Fosso delle Cadute 2",
+        "2015-2017": "0.57"
+    },
+    {
+        "ost_codice": "ITN010_DELLOSA_14SS2T",
+        "denominazione": "Fosso dell'Osa 1",
+        "2015-2017": "0.48"
+    },
+    {
+        "ost_codice": "ITR12CHI-TAF_TAFONE_11IN7T",
+        "denominazione": "Fosso del Tafone 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12CHI-TAF_TAFONE_11SS2T",
+        "denominazione": "Fosso del Tafone 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_LEPRIG_14SS1T",
+        "denominazione": "Fosso di Leprignano 1",
+        "2015-2017": "0.56"
+    },
+    {
+        "ost_codice": "ITN010_LEPRIG_14SS2T",
+        "denominazione": "Fosso di Leprignano 2",
+        "2015-2017": "0.36"
+    },
+    {
+        "ost_codice": "ITN010_MONTEN_13IN7T",
+        "denominazione": "Fosso di Montenero 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_RUSTICA_14IN7T",
+        "denominazione": "Fosso di Rustica 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_RUSTICA_14SS2T",
+        "denominazione": "Fosso di Rustica 2",
+        "2015-2017": "0.542"
+    },
+    {
+        "ost_codice": "ITN010_SVITTORINO_14IN7T",
+        "denominazione": "Fosso di S.Vittorino 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_SVITTORINO_14SS2T",
+        "denominazione": "Fosso di S.Vittorino 2",
+        "2015-2017": "0.74"
+    },
+    {
+        "ost_codice": "ITN010_SVITTORINO_13SS2D",
+        "denominazione": "Fosso di S.Vittorino 3",
+        "2015-2017": "0.67"
+    },
+    {
+        "ost_codice": "ITN005_SOLIVA_15IN7T",
+        "denominazione": "Fosso Forma di S.Oliva 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_GALERIA_14SS1T",
+        "denominazione": "Fosso Galeria 1",
+        "2015-2017": "0.44"
+    },
+    {
+        "ost_codice": "ITN010_GALERIA_14SS37",
+        "denominazione": "Fosso Galeria 2",
+        "2015-2017": "0.38"
+    },
+    {
+        "ost_codice": "ITR12INC_INCASTRI_14IN7T",
+        "denominazione": "Fosso Incastri (Rio Grande) 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12INC_INCASTRI_14SS2T",
+        "denominazione": "Fosso Incastri (Rio Grande) 2",
+        "2015-2017": "0.29"
+    },
+    {
+        "ost_codice": "ITR12MIG_LENTA_14IN7T",
+        "denominazione": "Fosso Lenta 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12MIG_LENTA_14SS2T",
+        "denominazione": "Fosso Lenta 2",
+        "2015-2017": "0.32"
+    },
+    {
+        "ost_codice": "ITN010_MALAFEDE_14SS1T",
+        "denominazione": "Fosso Malafede 1",
+        "2015-2017": "0.4"
+    },
+    {
+        "ost_codice": "ITN010_MALAFEDE_14SS2T",
+        "denominazione": "Fosso Malafede 2",
+        "2015-2017": "0"
+    },
+    {
+        "ost_codice": "ITR12MIG-ARS_MARANG_14IN7T",
+        "denominazione": "Fosso Marangone 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_PASSERANO_14IN7T",
+        "denominazione": "Fosso Passerano 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_PASSERANO_14SS2T",
+        "denominazione": "Fosso Passerano 2",
+        "2015-2017": "0.6"
+    },
+    {
+        "ost_codice": "ITN010_RIOFILETTO_14IN7T",
+        "denominazione": "Fosso Rio Filetto 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_RIOFILETTO_14SS2T",
+        "denominazione": "Fosso Rio Filetto 2",
+        "2015-2017": "0.387"
+    },
+    {
+        "ost_codice": "ITR12MIG-ARS_SANGUIN_14IN7T",
+        "denominazione": "Fosso Sanguinara 1",
+        "2015-2017": "0.65"
+    },
+    {
+        "ost_codice": "ITN005_SAVO_14SS1T",
+        "denominazione": "Fosso Savo (Centogocce) 1",
+        "2015-2017": "0"
+    },
+    {
+        "ost_codice": "ITN005_SAVO_14SS2T",
+        "denominazione": "Fosso Savo (Centogocce) 2",
+        "2015-2017": "0.24"
+    },
+    {
+        "ost_codice": "ITR12MOS_SPACCAS_14IN7T",
+        "denominazione": "Fosso Spaccasassi 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12MOS_SPACCAS_14SS2T",
+        "denominazione": "Fosso Spaccasassi 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12MOS_SPACCAS_15SS2F",
+        "denominazione": "Fosso Spaccasassi 3",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITI014_TIMONE_14SS1T",
+        "denominazione": "Fosso Timone 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITI014_TIMONE_14SS2T",
+        "denominazione": "Fosso Timone 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12MIG-ARS_TREDENARI_14SS1T",
+        "denominazione": "Fosso Tre Denari 1",
+        "2015-2017": "0"
+    },
+    {
+        "ost_codice": "ITR12MIG-ARS_TREDENARI_14SS2T",
+        "denominazione": "Fosso Tre Denari 2",
+        "2015-2017": "0.43"
+    },
+    {
+        "ost_codice": "ITR12MIG-ARS_VACCINA_14IN7T",
+        "denominazione": "Fosso Vaccina 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12MIG-ARS_VACCINA_14SS2T",
+        "denominazione": "Fosso Vaccina 2",
+        "2015-2017": "0.35"
+    },
+    {
+        "ost_codice": "ITR12MIG_VERGINESE_14SS1T",
+        "denominazione": "Fosso Verginese 1",
+        "2015-2017": "0.59"
+    },
+    {
+        "ost_codice": "ITR12MIG_VERGINESE_14SS2T",
+        "denominazione": "Fosso Verginese 2",
+        "2015-2017": "0.52"
+    },
+    {
+        "ost_codice": "ITN010_VORGA_13IN7T",
+        "denominazione": "Fosso Vorga 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12FON-ITR_CAPODAC_15SR1T",
+        "denominazione": "Rio Capodacqua (S. Croce) 1",
+        "2015-2017": "0.823"
+    },
+    {
+        "ost_codice": "ITR12FON-ITR_CAPODAC_15SR2T",
+        "denominazione": "Rio Capodacqua (S. Croce) 2",
+        "2015-2017": "0.737"
+    },
+    {
+        "ost_codice": "ITR12FON-ITR_RIODITRI_15SS1T",
+        "denominazione": "Rio d'Itri 1",
+        "2015-2017": "0"
+    },
+    {
+        "ost_codice": "ITR12FON-ITR_RIODITRI_15SS2T",
+        "denominazione": "Rio d'Itri 2",
+        "2015-2017": "0"
+    },
+    {
+        "ost_codice": "ITR12MIG-ARS_RIOFIUME_14IN7T",
+        "denominazione": "Rio Fiume 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_QUESA_15SS2T",
+        "denominazione": "Rio Forma Quesa 1",
+        "2015-2017": "0.685"
+    },
+    {
+        "ost_codice": "ITR12MIG_MELLEDRA_14SS1T",
+        "denominazione": "Rio Melledra 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12MIG_MELLEDRA_14SS2T",
+        "denominazione": "Rio Melledra 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_RIONERO_13IN7T",
+        "denominazione": "Rio Nero 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_RIOTORTO_14IN7T",
+        "denominazione": "Rio Torto 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_RIOTORTO_14SS2T",
+        "denominazione": "Rio Torto 2",
+        "2015-2017": "0.34"
+    },
+    {
+        "ost_codice": "ITN010_VALCHETTA_14SS1T",
+        "denominazione": "Rio Valchetta (Cremera) 1",
+        "2015-2017": "0.2"
+    },
+    {
+        "ost_codice": "ITN010_VALCHETTA_14SS2T",
+        "denominazione": "Rio Valchetta (Cremera) 2",
+        "2015-2017": "0.51"
+    },
+    {
+        "ost_codice": "ITN010_VALCHETTA_14SS3T",
+        "denominazione": "Rio Valchetta (Cremera) 3",
+        "2015-2017": "0.57"
+    },
+    {
+        "ost_codice": "ITN010_RIOVICANO_14SS1T",
+        "denominazione": "Rio Vicano 1",
+        "2015-2017": "0.373"
+    },
+    {
+        "ost_codice": "ITN010_RIOVICANO_14SS2T",
+        "denominazione": "Rio Vicano 2",
+        "2015-2017": "0.534"
+    },
+    {
+        "ost_codice": "ITN005_ALABRO_13SS1T",
+        "denominazione": "Torrente Alabro 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_ALABRO_13SS2T",
+        "denominazione": "Torrente Alabro 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_AMASENO_13IN7T",
+        "denominazione": "Torrente Amaseno 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12ARN_TARRONE_14SS1T",
+        "denominazione": "Torrente Arrone 1",
+        "2015-2017": "0.537"
+    },
+    {
+        "ost_codice": "ITR12ARN_TARRONE_14SS2T",
+        "denominazione": "Torrente Arrone 2",
+        "2015-2017": "0.538"
+    },
+    {
+        "ost_codice": "ITN005_AUSENTE_15SS1T",
+        "denominazione": "Torrente Ausente 1",
+        "2015-2017": "0"
+    },
+    {
+        "ost_codice": "ITN005_AUSENTE_15SS2T",
+        "denominazione": "Torrente Ausente 2",
+        "2015-2017": "0.617"
+    },
+    {
+        "ost_codice": "ITR12MAR_BIEDANO_14SS1T",
+        "denominazione": "Torrente Biedano 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12MAR_BIEDANO_14SS2T",
+        "denominazione": "Torrente Biedano 2",
+        "2015-2017": "0.487"
+    },
+    {
+        "ost_codice": "ITN010_CANERA_13IN7T",
+        "denominazione": "Torrente Canera 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_TCOSA_13SR1T",
+        "denominazione": "Torrente Cosa 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN005_TCOSA_13SR2T",
+        "denominazione": "Torrente Cosa 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_FARFA_13SR1T",
+        "denominazione": "Torrente Farfa 1",
+        "2015-2017": "0.71"
+    },
+    {
+        "ost_codice": "ITN010_FARFA_13SS2T",
+        "denominazione": "Torrente Farfa 2",
+        "2015-2017": "0.79"
+    },
+    {
+        "ost_codice": "ITN010_FARFA_13SS3T",
+        "denominazione": "Torrente Farfa 3",
+        "2015-2017": "0.81"
+    },
+    {
+        "ost_codice": "ITN010_FARFA_14SS3F",
+        "denominazione": "Torrente Farfa 4",
+        "2015-2017": "1.11"
+    },
+    {
+        "ost_codice": "ITN010_FIUMICINO_13IN7T",
+        "denominazione": "Torrente Fiumicino 1",
+        "2015-2017": "0.62"
+    },
+    {
+        "ost_codice": "ITN010_LAIA_13SS1T",
+        "denominazione": "Torrente l'Aia 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_LAIA_13SS2T",
+        "denominazione": "Torrente l'Aia 2",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_LAIA_11SS3T",
+        "denominazione": "Torrente l'Aia 3",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_LICENZA_13IN7T",
+        "denominazione": "Torrente Licenza 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_SIELE_11SS2T",
+        "denominazione": "Torrente Siele 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITN010_SIMBRIVIO_13SR1T",
+        "denominazione": "Torrente Simbrivio 1",
+        "2015-2017": "0.84"
+    },
+    {
+        "ost_codice": "ITN010_SIMBRIVIO_13SS2T",
+        "denominazione": "Torrente Simbrivio 2",
+        "2015-2017": "0.81"
+    },
+    {
+        "ost_codice": "ITN010_STRID_11SS2T",
+        "denominazione": "Torrente Stridolone 1",
+        "2015-2017": "0.665"
+    },
+    {
+        "ost_codice": "ITR12MAR_TRAPONZO_14IN7T",
+        "denominazione": "Torrente Traponzo 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12MAR_TRAPONZO_14SS2T",
+        "denominazione": "Torrente Traponzo 2",
+        "2015-2017": "0.418"
+    },
+    {
+        "ost_codice": "ITN010_TREJA_14SS2T",
+        "denominazione": "Torrente Treja 1",
+        "2015-2017": "0.61"
+    },
+    {
+        "ost_codice": "ITN010_TREJA_14SS3T",
+        "denominazione": "Torrente Treja 2",
+        "2015-2017": "0.742"
+    },
+    {
+        "ost_codice": "ITR12MIG_VESCA_14IN7T",
+        "denominazione": "Torrente Vesca 1",
+        "2015-2017": null
+    },
+    {
+        "ost_codice": "ITR12MIG_VESCA_14SS2T",
+        "denominazione": "Torrente Vesca 2",
+        "2015-2017": "0.971"
+    }
+]

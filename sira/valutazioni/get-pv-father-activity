@@ -1,0 +1,67 @@
+[
+    {
+        "id_attivita": 70,
+        "desc_attivita": "WFD, D.lgs. 152/06 all.1 - Corpi idrici fluviali",
+        "cod_attivita": "[ALL1 - F]"
+    },
+    {
+        "id_attivita": 71,
+        "desc_attivita": "WFD, D.lgs. 152/06 all.1 - Corpi idrici lacustri",
+        "cod_attivita": "[ALL1 - L]"
+    },
+    {
+        "id_attivita": 72,
+        "desc_attivita": "WFD, D.lgs. 152/06 all.1 - Corpi Idrici Marino-Costieri",
+        "cod_attivita": "[ALL1 - M]"
+    },
+    {
+        "id_attivita": 73,
+        "desc_attivita": "WFD, D.lgs. 152/06 all.1 - Aree di Transizione",
+        "cod_attivita": "[ALL1 - T]"
+    },
+    {
+        "id_attivita": 82,
+        "desc_attivita": "WFD, D.lgs. 152/06 all.1 - Acque sotterranee",
+        "cod_attivita": "[ALL1 - S]"
+    },
+    {
+        "id_attivita": 85,
+        "desc_attivita": "D. Lgs 116/2008 - Acque di balneazione - Sorveglianza Microbiologica",
+        "cod_attivita": "[BALN]"
+    },
+    {
+        "id_attivita": 100,
+        "desc_attivita": "Classificazione dello stato di qualità dell'Aria",
+        "cod_attivita": "[QA-CT]"
+    },
+    {
+        "id_attivita": 127,
+        "desc_attivita": "Monitoraggio della produzione di rifiuti",
+        "cod_attivita": "[MO-RIF]"
+    },
+    {
+        "id_attivita": 128,
+        "desc_attivita": "Monitoraggio dell'uso del suolo",
+        "cod_attivita": "[MO - USU]"
+    },
+    {
+        "id_attivita": 130,
+        "desc_attivita": "Standard Comunali Qualita' dell'aria",
+        "cod_attivita": "[SC-QA]"
+    },
+    {
+        "id_attivita": 135,
+        "desc_attivita": "Monitoraggio delle Aree Protette del Lazio",
+        "cod_attivita": "[SIC-MON]"
+    },
+    {
+        "id_attivita": 137,
+        "desc_attivita": "Valutazione grado di conservazione degli habitat prioritari",
+        "cod_attivita": "[NAT-HABP]"
+    },
+    {
+        "id_attivita": 149,
+        "desc_attivita": "Descrizione e classificazione acustica del territorio",
+        "cod_attivita": "[CL-AC]"
+    }
+]

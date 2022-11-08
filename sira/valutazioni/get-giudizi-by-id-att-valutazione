@@ -1,0 +1,72 @@
+[
+    {
+        "id_giudizio": 2,
+        "descrizione": "BUONO",
+        "limite_inferiore": null,
+        "limite_superiore": null,
+        "tipo_calcolo": "ICMI",
+        "colore": "#008000",
+        "id_att_valutazione": 53,
+        "codice_attivita": "[ALL1-FBD-VT]"
+    },
+    {
+        "id_giudizio": 5,
+        "descrizione": "CATTIVO",
+        "limite_inferiore": null,
+        "limite_superiore": null,
+        "tipo_calcolo": "ICMI",
+        "colore": "#ff0000",
+        "id_att_valutazione": 53,
+        "codice_attivita": "[ALL1-FBD-VT]"
+    },
+    {
+        "id_giudizio": 1,
+        "descrizione": "ELEVATO",
+        "limite_inferiore": null,
+        "limite_superiore": null,
+        "tipo_calcolo": "ICMI",
+        "colore": "#0000ff",
+        "id_att_valutazione": 53,
+        "codice_attivita": "[ALL1-FBD-VT]"
+    },
+    {
+        "id_giudizio": 6,
+        "descrizione": "NON CLASSIFICATO",
+        "limite_inferiore": null,
+        "limite_superiore": null,
+        "tipo_calcolo": "ICMI",
+        "colore": "#808080",
+        "id_att_valutazione": 53,
+        "codice_attivita": "[ALL1-FBD-VT]"
+    },
+    {
+        "id_giudizio": 129,
+        "descrizione": "NON MONITORATO",
+        "limite_inferiore": null,
+        "limite_superiore": null,
+        "tipo_calcolo": "ICMI",
+        "colore": "#4A4A4A",
+        "id_att_valutazione": 53,
+        "codice_attivita": "[ALL1-FBD-VT]"
+    },
+    {
+        "id_giudizio": 4,
+        "descrizione": "SCARSO",
+        "limite_inferiore": null,
+        "limite_superiore": null,
+        "tipo_calcolo": "ICMI",
+        "colore": "#ff8c00",
+        "id_att_valutazione": 53,
+        "codice_attivita": "[ALL1-FBD-VT]"
+    },
+    {
+        "id_giudizio": 3,
+        "descrizione": "SUFFICIENTE",
+        "limite_inferiore": null,
+        "limite_superiore": null,
+        "tipo_calcolo": "ICMI",
+        "colore": "#ffff00",
+        "id_att_valutazione": 53,
+        "codice_attivita": "[ALL1-FBD-VT]"
+    }
+]
