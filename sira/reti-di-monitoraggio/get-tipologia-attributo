@@ -1,0 +1,14 @@
+[
+    {
+        "id_tipo_attributo": 2,
+        "desc_tipo_attributo": "ATTI"
+    },
+    {
+        "id_tipo_attributo": 1,
+        "desc_tipo_attributo": "PROPRIETA"
+    },
+    {
+        "id_tipo_attributo": 3,
+        "desc_tipo_attributo": "SOGGETTI"
+    }
+]
