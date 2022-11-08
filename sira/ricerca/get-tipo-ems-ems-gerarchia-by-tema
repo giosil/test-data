@@ -1,0 +1,130 @@
+[
+    {
+        "tipo": "TIPO_EMS",
+        "id": 12,
+        "descrizione": "RADIOISOTOPI",
+        "id_padre": null,
+        "PATH": "{12}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPO_EMS",
+        "id": 17,
+        "descrizione": "PARTICELLE",
+        "id_padre": null,
+        "PATH": "{17}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPO_EMS",
+        "id": 21,
+        "descrizione": "ONDE SONORE",
+        "id_padre": null,
+        "PATH": "{21}",
+        "level": 1
+    },
+    {
+        "tipo": "EMS",
+        "id": 600,
+        "descrizione": "CO-60",
+        "id_padre": 12,
+        "PATH": "{12,600}",
+        "level": 2
+    },
+    {
+        "tipo": "EMS",
+        "id": 601,
+        "descrizione": "CS-134",
+        "id_padre": 12,
+        "PATH": "{12,601}",
+        "level": 2
+    },
+    {
+        "tipo": "EMS",
+        "id": 602,
+        "descrizione": "CS-137",
+        "id_padre": 12,
+        "PATH": "{12,602}",
+        "level": 2
+    },
+    {
+        "tipo": "EMS",
+        "id": 603,
+        "descrizione": "K-40",
+        "id_padre": 12,
+        "PATH": "{12,603}",
+        "level": 2
+    },
+    {
+        "tipo": "EMS",
+        "id": 604,
+        "descrizione": "R-BETA",
+        "id_padre": 12,
+        "PATH": "{12,604}",
+        "level": 2
+    },
+    {
+        "tipo": "EMS",
+        "id": 605,
+        "descrizione": "T-ALFA",
+        "id_padre": 12,
+        "PATH": "{12,605}",
+        "level": 2
+    },
+    {
+        "tipo": "EMS",
+        "id": 606,
+        "descrizione": "H-3",
+        "id_padre": 12,
+        "PATH": "{12,606}",
+        "level": 2
+    },
+    {
+        "tipo": "EMS",
+        "id": 608,
+        "descrizione": "BE-7",
+        "id_padre": 12,
+        "PATH": "{12,608}",
+        "level": 2
+    },
+    {
+        "tipo": "EMS",
+        "id": 609,
+        "descrizione": "I-131",
+        "id_padre": 12,
+        "PATH": "{12,609}",
+        "level": 2
+    },
+    {
+        "tipo": "EMS",
+        "id": 607,
+        "descrizione": "T-GAMMA",
+        "id_padre": 17,
+        "PATH": "{17,607}",
+        "level": 2
+    },
+    {
+        "tipo": "EMS",
+        "id": 610,
+        "descrizione": "T-BETA",
+        "id_padre": 17,
+        "PATH": "{17,610}",
+        "level": 2
+    },
+    {
+        "tipo": "EMS",
+        "id": 591,
+        "descrizione": "LEQ DIURNO",
+        "id_padre": 21,
+        "PATH": "{21,591}",
+        "level": 2
+    },
+    {
+        "tipo": "EMS",
+        "id": 592,
+        "descrizione": "LEQ NOTTURNO",
+        "id_padre": 21,
+        "PATH": "{21,592}",
+        "level": 2
+    }
+]

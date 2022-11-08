@@ -1,0 +1,167 @@
+[
+    {
+        "id_attivita": 132,
+        "desc_attivita": "Monitoraggio delle radiazioni ionizzanti",
+        "cod_attivita": "[MO - ION]",
+        "id_tipologia_attivita": 6,
+        "id_tipologia_ost": 14,
+        "id_tipologia_ulia": null,
+        "id_padre": null,
+        "PATH": "{132}",
+        "level": 1
+    },
+    {
+        "id_attivita": 148,
+        "desc_attivita": "Monitoraggi e rilevazioni acustiche",
+        "cod_attivita": "[MR - ACU]",
+        "id_tipologia_attivita": 6,
+        "id_tipologia_ost": null,
+        "id_tipologia_ulia": null,
+        "id_padre": null,
+        "PATH": "{148}",
+        "level": 1
+    },
+    {
+        "id_attivita": 131,
+        "desc_attivita": "Programma di monitoraggio di sorveglianza della radioattività Ambientale nella regione Lazio",
+        "cod_attivita": "[MO - RAD]",
+        "id_tipologia_attivita": 6,
+        "id_tipologia_ost": null,
+        "id_tipologia_ulia": null,
+        "id_padre": 132,
+        "PATH": "{132,131}",
+        "level": 2
+    },
+    {
+        "id_attivita": 140,
+        "desc_attivita": "Monitoraggio del rumore aeroportuale",
+        "cod_attivita": "[MO - RU]",
+        "id_tipologia_attivita": 6,
+        "id_tipologia_ost": 20,
+        "id_tipologia_ulia": 85,
+        "id_padre": 148,
+        "PATH": "{148,140}",
+        "level": 2
+    },
+    {
+        "id_attivita": 149,
+        "desc_attivita": "Descrizione e classificazione acustica del territorio",
+        "cod_attivita": "[CL-AC]",
+        "id_tipologia_attivita": 6,
+        "id_tipologia_ost": null,
+        "id_tipologia_ulia": null,
+        "id_padre": 148,
+        "PATH": "{148,149}",
+        "level": 2
+    },
+    {
+        "id_attivita": 117,
+        "desc_attivita": "[MCMRGE] Monitoraggio  in continuo (Mensile) dei radionuclidi gamma emettitori",
+        "cod_attivita": "[MCMRGE]",
+        "id_tipologia_attivita": 2,
+        "id_tipologia_ost": 13,
+        "id_tipologia_ulia": 106,
+        "id_padre": 131,
+        "PATH": "{132,131,117}",
+        "level": 3
+    },
+    {
+        "id_attivita": 118,
+        "desc_attivita": "[RDGCM] Monitoraggio del rateo di dose gamma in continuo mensile (radiazione esterna)",
+        "cod_attivita": "[RDGCM]",
+        "id_tipologia_attivita": 2,
+        "id_tipologia_ost": 13,
+        "id_tipologia_ulia": 107,
+        "id_padre": 131,
+        "PATH": "{132,131,118}",
+        "level": 3
+    },
+    {
+        "id_attivita": 119,
+        "desc_attivita": "[MCMFALL] Monitoraggio del fall-out (deposizione umida e secca).",
+        "cod_attivita": "[MCMFALL]",
+        "id_tipologia_attivita": 2,
+        "id_tipologia_ost": 13,
+        "id_tipologia_ulia": 106,
+        "id_padre": 131,
+        "PATH": "{132,131,119}",
+        "level": 3
+    },
+    {
+        "id_attivita": 120,
+        "desc_attivita": "[MTRGA] Monitoraggio trimestrale dei Radionuclidi gamma emettitori (ACQUE DOLCI)",
+        "cod_attivita": "[MTRGA]",
+        "id_tipologia_attivita": 2,
+        "id_tipologia_ost": 13,
+        "id_tipologia_ulia": 105,
+        "id_padre": 131,
+        "PATH": "{132,131,120}",
+        "level": 3
+    },
+    {
+        "id_attivita": 121,
+        "desc_attivita": "[MTRBR] Monitoraggio trimestrale dell'attivita beta residua (ACQUE DOLCI)",
+        "cod_attivita": "[MTRBR]",
+        "id_tipologia_attivita": 2,
+        "id_tipologia_ost": 13,
+        "id_tipologia_ulia": 105,
+        "id_padre": 131,
+        "PATH": "{132,131,121}",
+        "level": 3
+    },
+    {
+        "id_attivita": 122,
+        "desc_attivita": "[MTRGS] Monitoraggio trimestrale dei Radionuclidi gamma emettitori in acque dolci (SEDIMENTO)",
+        "cod_attivita": "[MTRGS]",
+        "id_tipologia_attivita": 2,
+        "id_tipologia_ost": 13,
+        "id_tipologia_ulia": 103,
+        "id_padre": 131,
+        "PATH": "{132,131,122}",
+        "level": 3
+    },
+    {
+        "id_attivita": 123,
+        "desc_attivita": "[MSRGM] Monitoraggio semestrale radionuclidi gamma emettitori (ACQUE MARINO COSTIERE)",
+        "cod_attivita": "[MSRGM]",
+        "id_tipologia_attivita": 2,
+        "id_tipologia_ost": 18,
+        "id_tipologia_ulia": 104,
+        "id_padre": 131,
+        "PATH": "{132,131,123}",
+        "level": 3
+    },
+    {
+        "id_attivita": 124,
+        "desc_attivita": "[MARGS] Monitoraggio annuale radionuclidi gamma-emettitori (SUOLO DI PASCOLO)",
+        "cod_attivita": "[MARGS]",
+        "id_tipologia_attivita": 2,
+        "id_tipologia_ost": 18,
+        "id_tipologia_ulia": 101,
+        "id_padre": 131,
+        "PATH": "{132,131,124}",
+        "level": 3
+    },
+    {
+        "id_attivita": 125,
+        "desc_attivita": "[MSRGS] Monitoraggio semestrale Radionuclidi gamma emettitori in acque marino-costiere (SEDIMENTO)",
+        "cod_attivita": "[MSRGS]",
+        "id_tipologia_attivita": 2,
+        "id_tipologia_ost": 13,
+        "id_tipologia_ulia": 102,
+        "id_padre": 131,
+        "PATH": "{132,131,125}",
+        "level": 3
+    },
+    {
+        "id_attivita": 110,
+        "desc_attivita": "[RU-AERO] Misurazione Livelli sonori equivalenti (LEQ) - Rumore Aeroportuale",
+        "cod_attivita": "[RU-AERO]",
+        "id_tipologia_attivita": 2,
+        "id_tipologia_ost": 20,
+        "id_tipologia_ulia": 86,
+        "id_padre": 140,
+        "PATH": "{148,140,110}",
+        "level": 3
+    }
+]

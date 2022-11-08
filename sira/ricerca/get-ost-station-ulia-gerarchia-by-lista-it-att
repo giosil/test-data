@@ -1,0 +1,210 @@
+[
+    {
+        "tipo": "ULIA",
+        "id": 4072,
+        "descrizione": "Aereoporto di Ciampino - CAPANNELLE\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1433,
+        "path": "{1433,4072}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4084,
+        "descrizione": "Aereoporto di Fiumicino - Via Porto Conte\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1430,
+        "path": "{1430,4084}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4086,
+        "descrizione": "Aereoporto di Fiumicino - Via del Fontanile di Mezzaluna\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1430,
+        "path": "{1430,4086}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4069,
+        "descrizione": "Aereoporto di Ciampino - VIVALDI\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1433,
+        "path": "{1433,4069}",
+        "level": 2
+    },
+    {
+        "tipo": "OST",
+        "id": 1433,
+        "descrizione": "Aeroporto Ciampino - zona 60 dBa",
+        "id_padre": null,
+        "path": "{1433}",
+        "level": 1
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4093,
+        "descrizione": "Aereoporto di Fiumicino - Via Coni Zugna\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1437,
+        "path": "{1437,4093}",
+        "level": 2
+    },
+    {
+        "tipo": "OST",
+        "id": 1435,
+        "descrizione": "Aeroporto Ciampino - zona 75 dBa",
+        "id_padre": null,
+        "path": "{1435}",
+        "level": 1
+    },
+    {
+        "tipo": "OST",
+        "id": 1430,
+        "descrizione": "Aeroporto Fiumicino - zona 60 dBa",
+        "id_padre": null,
+        "path": "{1430}",
+        "level": 1
+    },
+    {
+        "tipo": "OST",
+        "id": 1432,
+        "descrizione": "Aeroporto Fiumicino - zona 75 dBa",
+        "id_padre": null,
+        "path": "{1432}",
+        "level": 1
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4077,
+        "descrizione": "Aereoporto di Ciampino - ISONZO\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1436,
+        "path": "{1436,4077}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4094,
+        "descrizione": "Aereoporto di Fiumicino - Via dei Dentali\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1437,
+        "path": "{1437,4094}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4090,
+        "descrizione": "Aereoporto di Fiumicino - Via dei Nautili (Focene)\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1431,
+        "path": "{1431,4090}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4085,
+        "descrizione": "Aereoporto di Fiumicino - Via Portuense\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1430,
+        "path": "{1430,4085}",
+        "level": 2
+    },
+    {
+        "tipo": "OST",
+        "id": 1437,
+        "descrizione": "Aeroporto di Fiumicino - Esterno zonazione aeroportuale",
+        "id_padre": null,
+        "path": "{1437}",
+        "level": 1
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4070,
+        "descrizione": "Aereoporto di Ciampino - Cava de selci 2\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1433,
+        "path": "{1433,4070}",
+        "level": 2
+    },
+    {
+        "tipo": "OST",
+        "id": 1434,
+        "descrizione": "Aeroporto Ciampino - zona 65 dBa",
+        "id_padre": null,
+        "path": "{1434}",
+        "level": 1
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4066,
+        "descrizione": "Aereoporto di Ciampino - DALMAZIA\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1433,
+        "path": "{1433,4066}",
+        "level": 2
+    },
+    {
+        "tipo": "OST",
+        "id": 1431,
+        "descrizione": "Aeroporto Fiumicino - zona 65 dBa",
+        "id_padre": null,
+        "path": "{1431}",
+        "level": 1
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4080,
+        "descrizione": "Aereoporto di Ciampino - PRIMOLEVI\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1436,
+        "path": "{1436,4080}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4089,
+        "descrizione": "Aereoporto di Fiumicino - Via Polpi\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1431,
+        "path": "{1431,4089}",
+        "level": 2
+    },
+    {
+        "tipo": "OST",
+        "id": 1436,
+        "descrizione": "Aeroporto di Ciampino - Esterno zonazione aeroportuale",
+        "id_padre": null,
+        "path": "{1436}",
+        "level": 1
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4078,
+        "descrizione": "Aereoporto di Ciampino - Cava de selci 1\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1436,
+        "path": "{1436,4078}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4079,
+        "descrizione": "Aereoporto di Ciampino - Frattocchie\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1436,
+        "path": "{1436,4079}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4071,
+        "descrizione": "Aereoporto di Ciampino - BIXIO\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1433,
+        "path": "{1433,4071}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4067,
+        "descrizione": "Aereoporto di Ciampino - Via dei Laghi\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1433,
+        "path": "{1433,4067}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4068,
+        "descrizione": "Aereoporto di Ciampino - GIRASOLE\\Punto rilevazione rumore aeroportuale",
+        "id_padre": 1433,
+        "path": "{1433,4068}",
+        "level": 2
+    }
+]

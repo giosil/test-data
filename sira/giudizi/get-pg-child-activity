@@ -1,0 +1,72 @@
+[
+    {
+        "id_attivita": 53,
+        "desc_attivita": "Classif.  Corpi idrici fluviali, EQB Diatomee (TRIENNALE)",
+        "cod_attivita": "[ALL1-FBD-VT]"
+    },
+    {
+        "id_attivita": 54,
+        "desc_attivita": "Classif. Corpi idrici fluviali, EQB Macroinvertebrati (TRIENNALE)",
+        "cod_attivita": "[ALL1-FBI-VT]"
+    },
+    {
+        "id_attivita": 55,
+        "desc_attivita": "Classif. Corpi idrici fluviali, EQB Macroinvertebrati (ANNUALE)",
+        "cod_attivita": "[ALL1-FBI-VA]"
+    },
+    {
+        "id_attivita": 57,
+        "desc_attivita": "Classif.  Corpi idrici fluviali - STATO ECOLOGICO (TRIENNALE)",
+        "cod_attivita": "[ALL1-FSE-VT]"
+    },
+    {
+        "id_attivita": 58,
+        "desc_attivita": "Classif.  Corpi idrici fluviali, EQB Macrofite (TRIENNALE)",
+        "cod_attivita": "[ALL1-FBM-VT]"
+    },
+    {
+        "id_attivita": 59,
+        "desc_attivita": "Classif.  Corpi idrici fluviali, Indice TROFICO (TRIENNALE)",
+        "cod_attivita": "[ALL1-FCA-TVT]"
+    },
+    {
+        "id_attivita": 106,
+        "desc_attivita": "Classif. Corpi idrici fluviali - STATO CHIMICO (TRIENNALE)",
+        "cod_attivita": "[ALL1-FSC-VT]"
+    },
+    {
+        "id_attivita": 147,
+        "desc_attivita": "Direttiva 676/91 - Stato trofico delle acque fluviali",
+        "cod_attivita": "[VA - STAF]"
+    },
+    {
+        "id_attivita": 151,
+        "desc_attivita": "Qualità stazioni di monitoraggio - Corpi fluviali - EQB Diatomee",
+        "cod_attivita": "[ALL1-FBD-VA-U]"
+    },
+    {
+        "id_attivita": 152,
+        "desc_attivita": "Qualità stazioni di monitoraggio - Corpi fluviali - EQB Macroinvertebrati",
+        "cod_attivita": "[ALL1-FBI-VA-U]"
+    },
+    {
+        "id_attivita": 153,
+        "desc_attivita": "Qualità stazioni di monitoraggio - Corpi fluviali - EQB Macrofite",
+        "cod_attivita": "[ALL1-FBM-VA-U]"
+    },
+    {
+        "id_attivita": 165,
+        "desc_attivita": "Classif. Corpi idrici fluviali - STATO CHIMICO (SESSENNALE)",
+        "cod_attivita": "[ALL1-FSC-VS]"
+    },
+    {
+        "id_attivita": 167,
+        "desc_attivita": "Classif. Corpi idrici fluviali - STATO ECOLOGICO (SESSENNALE)",
+        "cod_attivita": "[ALL1-FSE-VS]"
+    },
+    {
+        "id_attivita": 175,
+        "desc_attivita": "Qualità stazioni di monitoraggio - Corpi fluviali - LIMECO (TRIENNALE)",
+        "cod_attivita": "[ALL1-FQS-C]"
+    }
+]

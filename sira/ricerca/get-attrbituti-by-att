@@ -1,0 +1,26 @@
+[
+    {
+        "id_attributo": 8,
+        "desc_tipo_attributo": "PROPRIETA",
+        "cod_attributo": "Estensione_dati",
+        "desc_attributo": "Estensione dei dati",
+        "flag_riservato": 0,
+        "id_attributi_lista_att": 4
+    },
+    {
+        "id_attributo": 6,
+        "desc_tipo_attributo": "PROPRIETA",
+        "cod_attributo": "A_matrice",
+        "desc_attributo": "Matrice",
+        "flag_riservato": 0,
+        "id_attributi_lista_att": 2
+    },
+    {
+        "id_attributo": 7,
+        "desc_tipo_attributo": "SOGGETTI",
+        "cod_attributo": "Resp_dato",
+        "desc_attributo": "Responsabili_dato",
+        "flag_riservato": 0,
+        "id_attributi_lista_att": 3
+    }
+]

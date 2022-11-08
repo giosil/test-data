@@ -1,0 +1,2170 @@
+[
+    {
+        "tipo": "TIPOLOGIA_ULIA",
+        "id": 85,
+        "descrizione": "RETE DI MISURAZIONE RUMORE AEROPORTUALE",
+        "id_padre": null,
+        "PATH": "{85}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPOLOGIA_ULIA",
+        "id": 86,
+        "descrizione": "RETE DI MISURAZIONE RUMORE AEROPORTUALE - Centralina di rilevazione",
+        "id_padre": null,
+        "PATH": "{86}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPOLOGIA_ULIA",
+        "id": 97,
+        "descrizione": "Rete di monitoraggio della radioattivta' dell'Aria",
+        "id_padre": null,
+        "PATH": "{97}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPOLOGIA_ULIA",
+        "id": 98,
+        "descrizione": "Rete di monitoraggio della radioattività dei suoli",
+        "id_padre": null,
+        "PATH": "{98}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPOLOGIA_ULIA",
+        "id": 99,
+        "descrizione": "Rete di monitoraggio della radioattivita' di ACQUE DOLCI FLUVIALI E LACUSTRI",
+        "id_padre": null,
+        "PATH": "{99}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPOLOGIA_ULIA",
+        "id": 100,
+        "descrizione": "Rete di monitoraggio della radioattività di ACQUE MARINO COSTIERE",
+        "id_padre": null,
+        "PATH": "{100}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPOLOGIA_ULIA",
+        "id": 101,
+        "descrizione": "Rete di monitoraggio della radioattività dei suoli  - Punti di prelievo suolo",
+        "id_padre": null,
+        "PATH": "{101}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPOLOGIA_ULIA",
+        "id": 102,
+        "descrizione": "Rete di monitoraggio della radioattività di ACQUE MARINO COSTIERE - Punto prelievo sedimento",
+        "id_padre": null,
+        "PATH": "{102}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPOLOGIA_ULIA",
+        "id": 103,
+        "descrizione": "Rete di monitoraggio della radioattività di ACQUE DOLCI FLUVIALI E LACUSTRI Punto prelievo sedimento",
+        "id_padre": null,
+        "PATH": "{103}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPOLOGIA_ULIA",
+        "id": 104,
+        "descrizione": "Rete di monitoraggio della radioattività di ACQUE MARINO COSTIERE Punti prelievo acqua",
+        "id_padre": null,
+        "PATH": "{104}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPOLOGIA_ULIA",
+        "id": 105,
+        "descrizione": "Rete di monitoraggio della radioattività di ACQUE DOLCI FLUVIALI E LACUSTRI  - Punti prelievo acqua",
+        "id_padre": null,
+        "PATH": "{105}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPOLOGIA_ULIA",
+        "id": 106,
+        "descrizione": "Rete di monitoraggio della radioattivtà dell'Aria - Punti prelievo particolato",
+        "id_padre": null,
+        "PATH": "{106}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPOLOGIA_ULIA",
+        "id": 107,
+        "descrizione": "Rete di monitoraggio della radioattivtà dell' Aria - Punti misurazione raggi gamma",
+        "id_padre": null,
+        "PATH": "{107}",
+        "level": 1
+    },
+    {
+        "tipo": "TIPOLOGIA_ULIA",
+        "id": 125,
+        "descrizione": "Luoghi di Installazione Impianti Radio-TV",
+        "id_padre": null,
+        "PATH": "{125}",
+        "level": 1
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4059,
+        "descrizione": "Aereoporto di Ciampino - BIXIO",
+        "id_padre": 85,
+        "PATH": "{85,4059}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4060,
+        "descrizione": "Aereoporto di Ciampino - CAPANNELLE",
+        "id_padre": 85,
+        "PATH": "{85,4060}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4061,
+        "descrizione": "Aereoporto di Ciampino - Cava de selci 2",
+        "id_padre": 85,
+        "PATH": "{85,4061}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4062,
+        "descrizione": "Aereoporto di Ciampino - DALMAZIA",
+        "id_padre": 85,
+        "PATH": "{85,4062}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4063,
+        "descrizione": "Aereoporto di Ciampino - GIRASOLE",
+        "id_padre": 85,
+        "PATH": "{85,4063}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4064,
+        "descrizione": "Aereoporto di Ciampino - Via dei Laghi",
+        "id_padre": 85,
+        "PATH": "{85,4064}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4065,
+        "descrizione": "Aereoporto di Ciampino - VIVALDI",
+        "id_padre": 85,
+        "PATH": "{85,4065}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4066,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4062,4066}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4066,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4066}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4067,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4064,4067}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4067,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4067}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4068,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4063,4068}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4068,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4068}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4069,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4065,4069}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4069,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4069}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4070,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4061,4070}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4070,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4070}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4071,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4059,4071}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4071,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4071}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4072,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4060,4072}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4072,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4072}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4073,
+        "descrizione": "Aereoporto di Ciampino - Cava de selci 1",
+        "id_padre": 85,
+        "PATH": "{85,4073}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4074,
+        "descrizione": "Aereoporto di Ciampino - Frattocchie",
+        "id_padre": 85,
+        "PATH": "{85,4074}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4075,
+        "descrizione": "Aereoporto di Ciampino - ISONZO",
+        "id_padre": 85,
+        "PATH": "{85,4075}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4076,
+        "descrizione": "Aereoporto di Ciampino - PRIMOLEVI",
+        "id_padre": 85,
+        "PATH": "{85,4076}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4077,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4075,4077}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4077,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4077}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4078,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4073,4078}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4078,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4078}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4079,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4074,4079}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4079,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4079}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4080,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4076,4080}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4080,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4080}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4081,
+        "descrizione": "Aereoporto di Fiumicino - Via del Fontanile di Mezzaluna",
+        "id_padre": 85,
+        "PATH": "{85,4081}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4082,
+        "descrizione": "Aereoporto di Fiumicino - Via Porto Conte",
+        "id_padre": 85,
+        "PATH": "{85,4082}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4083,
+        "descrizione": "Aereoporto di Fiumicino - Via Portuense",
+        "id_padre": 85,
+        "PATH": "{85,4083}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4084,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4082,4084}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4084,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4084}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4085,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4083,4085}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4085,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4085}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4086,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4081,4086}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4086,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4086}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4087,
+        "descrizione": "Aereoporto di Fiumicino - Via dei Nautili (Focene)",
+        "id_padre": 85,
+        "PATH": "{85,4087}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4088,
+        "descrizione": "Aereoporto di Fiumicino - Via Polpi",
+        "id_padre": 85,
+        "PATH": "{85,4088}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4089,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4088,4089}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4089,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4089}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4090,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4087,4090}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4090,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4090}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4091,
+        "descrizione": "Aereoporto di Fiumicino - Via Coni Zugna",
+        "id_padre": 85,
+        "PATH": "{85,4091}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4092,
+        "descrizione": "Aereoporto di Fiumicino - Via dei Dentali",
+        "id_padre": 85,
+        "PATH": "{85,4092}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4093,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4091,4093}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4093,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4093}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4094,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{85,4092,4094}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 4094,
+        "descrizione": "Punto rilevazione rumore aeroportuale",
+        "id_padre": 86,
+        "PATH": "{86,4094}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6267,
+        "descrizione": "Anguillara Sabazia",
+        "id_padre": 98,
+        "PATH": "{98,6267}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6268,
+        "descrizione": "Montalto di Castro",
+        "id_padre": 98,
+        "PATH": "{98,6268}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6269,
+        "descrizione": "Leonessa",
+        "id_padre": 98,
+        "PATH": "{98,6269}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6270,
+        "descrizione": "Guarcino",
+        "id_padre": 98,
+        "PATH": "{98,6270}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6271,
+        "descrizione": "Fiume Tevere - Roma Nord",
+        "id_padre": 99,
+        "PATH": "{99,6271}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6272,
+        "descrizione": "Fiume Tevere - Roma Sud",
+        "id_padre": 99,
+        "PATH": "{99,6272}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6273,
+        "descrizione": "Anguillara - Lago di Bracciano",
+        "id_padre": 99,
+        "PATH": "{99,6273}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6274,
+        "descrizione": "Marta - Lago di Bolsena",
+        "id_padre": 99,
+        "PATH": "{99,6274}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6275,
+        "descrizione": "Foce Tevere",
+        "id_padre": 100,
+        "PATH": "{100,6275}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6276,
+        "descrizione": "Borgo Sabotino",
+        "id_padre": 100,
+        "PATH": "{100,6276}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6277,
+        "descrizione": "Foce Garigliano",
+        "id_padre": 100,
+        "PATH": "{100,6277}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6278,
+        "descrizione": "Roma - Via Boncompagni",
+        "id_padre": 97,
+        "PATH": "{97,6278}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6279,
+        "descrizione": "Viterbo - Via Romiti",
+        "id_padre": 97,
+        "PATH": "{97,6279}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6280,
+        "descrizione": "Latina - Via Tasso",
+        "id_padre": 97,
+        "PATH": "{97,6280}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6281,
+        "descrizione": "Punto prelievo suolo",
+        "id_padre": 101,
+        "PATH": "{98,6267,6281}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6281,
+        "descrizione": "Punto prelievo suolo",
+        "id_padre": 101,
+        "PATH": "{101,6281}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6282,
+        "descrizione": "Punto prelievo suolo",
+        "id_padre": 101,
+        "PATH": "{98,6268,6282}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6282,
+        "descrizione": "Punto prelievo suolo",
+        "id_padre": 101,
+        "PATH": "{101,6282}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6283,
+        "descrizione": "Punto prelievo suolo",
+        "id_padre": 101,
+        "PATH": "{98,6269,6283}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6283,
+        "descrizione": "Punto prelievo suolo",
+        "id_padre": 101,
+        "PATH": "{101,6283}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6284,
+        "descrizione": "Punto prelievo suolo",
+        "id_padre": 101,
+        "PATH": "{98,6270,6284}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6284,
+        "descrizione": "Punto prelievo suolo",
+        "id_padre": 101,
+        "PATH": "{101,6284}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6285,
+        "descrizione": "Punto prelievo acqua",
+        "id_padre": 105,
+        "PATH": "{99,6271,6285}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6285,
+        "descrizione": "Punto prelievo acqua",
+        "id_padre": 105,
+        "PATH": "{105,6285}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6286,
+        "descrizione": "Punto prelievo acqua",
+        "id_padre": 105,
+        "PATH": "{99,6272,6286}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6286,
+        "descrizione": "Punto prelievo acqua",
+        "id_padre": 105,
+        "PATH": "{105,6286}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6287,
+        "descrizione": "Punto prelievo acqua",
+        "id_padre": 105,
+        "PATH": "{99,6273,6287}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6287,
+        "descrizione": "Punto prelievo acqua",
+        "id_padre": 105,
+        "PATH": "{105,6287}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6288,
+        "descrizione": "Punto prelievo acqua",
+        "id_padre": 105,
+        "PATH": "{99,6274,6288}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6288,
+        "descrizione": "Punto prelievo acqua",
+        "id_padre": 105,
+        "PATH": "{105,6288}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6289,
+        "descrizione": "Punto prelievo sedimento",
+        "id_padre": 103,
+        "PATH": "{99,6271,6289}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6289,
+        "descrizione": "Punto prelievo sedimento",
+        "id_padre": 103,
+        "PATH": "{103,6289}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6290,
+        "descrizione": "Punto prelievo sedimento",
+        "id_padre": 103,
+        "PATH": "{99,6272,6290}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6290,
+        "descrizione": "Punto prelievo sedimento",
+        "id_padre": 103,
+        "PATH": "{103,6290}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6291,
+        "descrizione": "Punto prelievo sedimento",
+        "id_padre": 103,
+        "PATH": "{99,6273,6291}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6291,
+        "descrizione": "Punto prelievo sedimento",
+        "id_padre": 103,
+        "PATH": "{103,6291}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6292,
+        "descrizione": "Punto prelievo sedimento",
+        "id_padre": 103,
+        "PATH": "{99,6274,6292}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6292,
+        "descrizione": "Punto prelievo sedimento",
+        "id_padre": 103,
+        "PATH": "{103,6292}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6293,
+        "descrizione": "Punto prelievo acqua (1 miglio mare)",
+        "id_padre": 104,
+        "PATH": "{100,6275,6293}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6293,
+        "descrizione": "Punto prelievo acqua (1 miglio mare)",
+        "id_padre": 104,
+        "PATH": "{104,6293}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6294,
+        "descrizione": "Punto prelievo acqua (1 miglio mare)",
+        "id_padre": 104,
+        "PATH": "{100,6276,6294}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6294,
+        "descrizione": "Punto prelievo acqua (1 miglio mare)",
+        "id_padre": 104,
+        "PATH": "{104,6294}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6295,
+        "descrizione": "Punto prelievo acqua (1 miglio mare)",
+        "id_padre": 104,
+        "PATH": "{100,6277,6295}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6295,
+        "descrizione": "Punto prelievo acqua (1 miglio mare)",
+        "id_padre": 104,
+        "PATH": "{104,6295}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6296,
+        "descrizione": "Punto prelievo sedimento",
+        "id_padre": 102,
+        "PATH": "{100,6275,6296}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6296,
+        "descrizione": "Punto prelievo sedimento",
+        "id_padre": 102,
+        "PATH": "{102,6296}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6297,
+        "descrizione": "Punto prelievo sedimento (davanti centrale)",
+        "id_padre": 102,
+        "PATH": "{100,6276,6297}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6297,
+        "descrizione": "Punto prelievo sedimento (davanti centrale)",
+        "id_padre": 102,
+        "PATH": "{102,6297}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6298,
+        "descrizione": "Punto prelievo sedimento",
+        "id_padre": 102,
+        "PATH": "{100,6277,6298}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6298,
+        "descrizione": "Punto prelievo sedimento",
+        "id_padre": 102,
+        "PATH": "{102,6298}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6299,
+        "descrizione": "Punto misurazione aria",
+        "id_padre": 107,
+        "PATH": "{97,6278,6299}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6299,
+        "descrizione": "Punto misurazione aria",
+        "id_padre": 107,
+        "PATH": "{107,6299}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6300,
+        "descrizione": "Punto prelievo particolato",
+        "id_padre": 106,
+        "PATH": "{97,6279,6300}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6300,
+        "descrizione": "Punto prelievo particolato",
+        "id_padre": 106,
+        "PATH": "{106,6300}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6301,
+        "descrizione": "Punto misurazione aria",
+        "id_padre": 107,
+        "PATH": "{97,6280,6301}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6301,
+        "descrizione": "Punto misurazione aria",
+        "id_padre": 107,
+        "PATH": "{107,6301}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6302,
+        "descrizione": "Punto prelievo particolato",
+        "id_padre": 106,
+        "PATH": "{97,6278,6302}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6302,
+        "descrizione": "Punto prelievo particolato",
+        "id_padre": 106,
+        "PATH": "{106,6302}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6303,
+        "descrizione": "Punto misurazione fall-out",
+        "id_padre": 106,
+        "PATH": "{97,6279,6303}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6303,
+        "descrizione": "Punto misurazione fall-out",
+        "id_padre": 106,
+        "PATH": "{106,6303}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6304,
+        "descrizione": "Punto prelievo particolato",
+        "id_padre": 106,
+        "PATH": "{97,6280,6304}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 6304,
+        "descrizione": "Punto prelievo particolato",
+        "id_padre": 106,
+        "PATH": "{106,6304}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7574,
+        "descrizione": "Canino - Loc. Sugheratello",
+        "id_padre": 125,
+        "PATH": "{125,7574}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7575,
+        "descrizione": "Civitavecchia - Monte Paradiso",
+        "id_padre": 125,
+        "PATH": "{125,7575}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7576,
+        "descrizione": "Civitavecchia - Via del Casaletto Rosso",
+        "id_padre": 125,
+        "PATH": "{125,7576}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7577,
+        "descrizione": "Gradoli-SS castrense Loc. cantoniera",
+        "id_padre": 125,
+        "PATH": "{125,7577}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7578,
+        "descrizione": "Gradoli-Via Cavour",
+        "id_padre": 125,
+        "PATH": "{125,7578}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7579,
+        "descrizione": "Acquapendente - Torre del Barbarossa",
+        "id_padre": 125,
+        "PATH": "{125,7579}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7580,
+        "descrizione": "Allumiere - Palazzo Camerale",
+        "id_padre": 125,
+        "PATH": "{125,7580}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7581,
+        "descrizione": "Allumiere - Piazza della Repubblica",
+        "id_padre": 125,
+        "PATH": "{125,7581}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7582,
+        "descrizione": "Allumiere - loc. laghetto -  strada prov. Braccianese",
+        "id_padre": 125,
+        "PATH": "{125,7582}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7583,
+        "descrizione": "Canepina - S. P. n? 39 Cassia Cimina, snc",
+        "id_padre": 125,
+        "PATH": "{125,7583}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7584,
+        "descrizione": "Caprarola - loc. Poggio Nibbio",
+        "id_padre": 125,
+        "PATH": "{125,7584}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7585,
+        "descrizione": "Canepina - Via Vallerano Loc. Valle S. Maria",
+        "id_padre": 125,
+        "PATH": "{125,7585}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7586,
+        "descrizione": "Roma-Via Salvatore Rebecchini - Parco de' Medici",
+        "id_padre": 125,
+        "PATH": "{125,7586}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7587,
+        "descrizione": "Roma-Via Ardea, 5",
+        "id_padre": 125,
+        "PATH": "{125,7587}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7588,
+        "descrizione": "Roma-Via Cadlolo 84",
+        "id_padre": 125,
+        "PATH": "{125,7588}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7589,
+        "descrizione": "Monte Mario Via Lucilio - Via massimi",
+        "id_padre": 125,
+        "PATH": "{125,7589}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7590,
+        "descrizione": "Monte Mario Via Parco della Vittoria",
+        "id_padre": 125,
+        "PATH": "{125,7590}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7591,
+        "descrizione": "Faleria-Località S. Angelo c/o",
+        "id_padre": 125,
+        "PATH": "{125,7591}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7592,
+        "descrizione": "Pomezia",
+        "id_padre": 125,
+        "PATH": "{125,7592}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7593,
+        "descrizione": "Roma-Via Tiburtina ",
+        "id_padre": 125,
+        "PATH": "{125,7593}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7594,
+        "descrizione": "Roma-Via Aurelia,796 Roma",
+        "id_padre": 125,
+        "PATH": "{125,7594}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7595,
+        "descrizione": "Torrita Tiberina",
+        "id_padre": 125,
+        "PATH": "{125,7595}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7596,
+        "descrizione": "Configni-Cima Fosso d'Inselmo",
+        "id_padre": 125,
+        "PATH": "{125,7596}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7597,
+        "descrizione": "Mentana",
+        "id_padre": 125,
+        "PATH": "{125,7597}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7598,
+        "descrizione": "Frascati - Vermicino Via delle Cornafelle",
+        "id_padre": 125,
+        "PATH": "{125,7598}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7599,
+        "descrizione": "Ariccia - Colle Pardo",
+        "id_padre": 125,
+        "PATH": "{125,7599}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7600,
+        "descrizione": "Ariccia - Monte Gentile",
+        "id_padre": 125,
+        "PATH": "{125,7600}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7601,
+        "descrizione": "Rocca di Papa - Madonna dal Tufo",
+        "id_padre": 125,
+        "PATH": "{125,7601}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7602,
+        "descrizione": "Rocca di Papa - Monte Cavo Vetta",
+        "id_padre": 125,
+        "PATH": "{125,7602}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7603,
+        "descrizione": "Rocca di Papa - Monte Cavo Costarelle",
+        "id_padre": 125,
+        "PATH": "{125,7603}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7604,
+        "descrizione": "Rocca di Papa - Monte Cavo",
+        "id_padre": 125,
+        "PATH": "{125,7604}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7605,
+        "descrizione": "Velletri - Frazione Poggi d'Oro - Via Terme di Caligola",
+        "id_padre": 125,
+        "PATH": "{125,7605}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7606,
+        "descrizione": "Nemi",
+        "id_padre": 125,
+        "PATH": "{125,7606}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7607,
+        "descrizione": "Velletri - Monte Secco - La Pilara",
+        "id_padre": 125,
+        "PATH": "{125,7607}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7608,
+        "descrizione": "Bagni di Tivoli - via lago dei tartari",
+        "id_padre": 125,
+        "PATH": "{125,7608}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7609,
+        "descrizione": "Montecompatri - Prato Arena",
+        "id_padre": 125,
+        "PATH": "{125,7609}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7610,
+        "descrizione": "Velletri - Colle Tondo",
+        "id_padre": 125,
+        "PATH": "{125,7610}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7611,
+        "descrizione": "Monte San Giovanni in Sabina-località Monte S.Giovanni",
+        "id_padre": 125,
+        "PATH": "{125,7611}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7612,
+        "descrizione": "Velletri - Monte artemisio - Contrada Tevola",
+        "id_padre": 125,
+        "PATH": "{125,7612}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7613,
+        "descrizione": "Palombara Sabina",
+        "id_padre": 125,
+        "PATH": "{125,7613}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7614,
+        "descrizione": "Tivoli - Monte Ripoli",
+        "id_padre": 125,
+        "PATH": "{125,7614}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7615,
+        "descrizione": "Tivoli - Colle Arcese 1 e 2",
+        "id_padre": 125,
+        "PATH": "{125,7615}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7616,
+        "descrizione": "Artena - Macere - Colle San Ludico ",
+        "id_padre": 125,
+        "PATH": "{125,7616}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7617,
+        "descrizione": "Artena - Colubro - Colle Gabriele",
+        "id_padre": 125,
+        "PATH": "{125,7617}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7618,
+        "descrizione": "Latina-VIA MILANO",
+        "id_padre": 125,
+        "PATH": "{125,7618}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7619,
+        "descrizione": "Belmonte in Sabina - località collina",
+        "id_padre": 125,
+        "PATH": "{125,7619}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7620,
+        "descrizione": "Belmonte in Sabina - località maglianello alto",
+        "id_padre": 125,
+        "PATH": "{125,7620}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7621,
+        "descrizione": "Cantalice - loc. Lesche di S. Felice all'acqua",
+        "id_padre": 125,
+        "PATH": "{125,7621}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7622,
+        "descrizione": "Castel San Pietro Romano - I Colli",
+        "id_padre": 125,
+        "PATH": "{125,7622}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7623,
+        "descrizione": "Latina-Via Ezio,55",
+        "id_padre": 125,
+        "PATH": "{125,7623}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7624,
+        "descrizione": "Licenza",
+        "id_padre": 125,
+        "PATH": "{125,7624}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7625,
+        "descrizione": "Rocca Massima-località S.P. Roccamassima",
+        "id_padre": 125,
+        "PATH": "{125,7625}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7626,
+        "descrizione": "Artena - Campo sportivo",
+        "id_padre": 125,
+        "PATH": "{125,7626}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7627,
+        "descrizione": "Cori-MONTE CORVINO",
+        "id_padre": 125,
+        "PATH": "{125,7627}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7628,
+        "descrizione": "Percile",
+        "id_padre": 125,
+        "PATH": "{125,7628}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7629,
+        "descrizione": "Cittaducale - Colle Valviano",
+        "id_padre": 125,
+        "PATH": "{125,7629}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7630,
+        "descrizione": "Capranica Prenestina - Guadagnolo",
+        "id_padre": 125,
+        "PATH": "{125,7630}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7631,
+        "descrizione": "Ciciliano",
+        "id_padre": 125,
+        "PATH": "{125,7631}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7632,
+        "descrizione": "Capranica Prenestina - Mentorella",
+        "id_padre": 125,
+        "PATH": "{125,7632}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7633,
+        "descrizione": "Sambuci - Via Cattaone",
+        "id_padre": 125,
+        "PATH": "{125,7633}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7634,
+        "descrizione": "Rocca di Cave - M.te Cavesilio",
+        "id_padre": 125,
+        "PATH": "{125,7634}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7635,
+        "descrizione": "Rieti-Monte Calcarone",
+        "id_padre": 125,
+        "PATH": "{125,7635}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7636,
+        "descrizione": "Saracinesco",
+        "id_padre": 125,
+        "PATH": "{125,7636}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7637,
+        "descrizione": "Longone Sabino-località Trampani ",
+        "id_padre": 125,
+        "PATH": "{125,7637}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7638,
+        "descrizione": "Genazzano-Zona cimitero / Prenestina nuova",
+        "id_padre": 125,
+        "PATH": "{125,7638}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7639,
+        "descrizione": "San Vito Romano - Via di Torricella",
+        "id_padre": 125,
+        "PATH": "{125,7639}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7640,
+        "descrizione": "Rieti-Cima Macchie S.S. 4 bis Via degli Appennini KM 17,1",
+        "id_padre": 125,
+        "PATH": "{125,7640}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7641,
+        "descrizione": "Caste di Tora - Ordella",
+        "id_padre": 125,
+        "PATH": "{125,7641}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7642,
+        "descrizione": "Cittaducale - Calcariola",
+        "id_padre": 125,
+        "PATH": "{125,7642}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7643,
+        "descrizione": "COLLEFERRO  ",
+        "id_padre": 125,
+        "PATH": "{125,7643}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7644,
+        "descrizione": "Riofreddo",
+        "id_padre": 125,
+        "PATH": "{125,7644}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7645,
+        "descrizione": "Rocca Canterano - Rocca di Mezzo",
+        "id_padre": 125,
+        "PATH": "{125,7645}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7646,
+        "descrizione": "Segni - Colle San Pietro",
+        "id_padre": 125,
+        "PATH": "{125,7646}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7647,
+        "descrizione": "Segni-località Pianillo",
+        "id_padre": 125,
+        "PATH": "{125,7647}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7648,
+        "descrizione": "Rocca Canterano - Serroni Vignali",
+        "id_padre": 125,
+        "PATH": "{125,7648}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7649,
+        "descrizione": "Sezze-località Casali",
+        "id_padre": 125,
+        "PATH": "{125,7649}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7650,
+        "descrizione": "Arsoli",
+        "id_padre": 125,
+        "PATH": "{125,7650}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7651,
+        "descrizione": "Arsoli - Colle di Tora",
+        "id_padre": 125,
+        "PATH": "{125,7651}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7652,
+        "descrizione": "Arsoli - Piani Uggi",
+        "id_padre": 125,
+        "PATH": "{125,7652}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7653,
+        "descrizione": "San Felice Circeo-Monte Circeo",
+        "id_padre": 125,
+        "PATH": "{125,7653}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7654,
+        "descrizione": "San Felice Circeo-località CROCETTE",
+        "id_padre": 125,
+        "PATH": "{125,7654}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7655,
+        "descrizione": "Sezze-località Monte Trevi",
+        "id_padre": 125,
+        "PATH": "{125,7655}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7656,
+        "descrizione": "Sonnino-Località Monte Pero",
+        "id_padre": 125,
+        "PATH": "{125,7656}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7657,
+        "descrizione": "CERVARA DI ROMA",
+        "id_padre": 125,
+        "PATH": "{125,7657}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7658,
+        "descrizione": "Roiate",
+        "id_padre": 125,
+        "PATH": "{125,7658}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7659,
+        "descrizione": "Carpineto Romano - Ravicelle",
+        "id_padre": 125,
+        "PATH": "{125,7659}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7660,
+        "descrizione": "Carpineto Romano - Zona Boscosa c/o SR609 Carpinetana",
+        "id_padre": 125,
+        "PATH": "{125,7660}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7661,
+        "descrizione": "Antrodoco",
+        "id_padre": 125,
+        "PATH": "{125,7661}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7662,
+        "descrizione": "Posta-località Colle Moretto",
+        "id_padre": 125,
+        "PATH": "{125,7662}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7663,
+        "descrizione": "Subiaco - Frazione San Biagio",
+        "id_padre": 125,
+        "PATH": "{125,7663}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7664,
+        "descrizione": "Pescorocchiano-Leofreni di Pescorocchiano",
+        "id_padre": 125,
+        "PATH": "{125,7664}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7665,
+        "descrizione": "Jenne",
+        "id_padre": 125,
+        "PATH": "{125,7665}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7666,
+        "descrizione": "Anagni - località Monte Campitelli",
+        "id_padre": 125,
+        "PATH": "{125,7666}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7667,
+        "descrizione": "Cittareale - Località Collicelle",
+        "id_padre": 125,
+        "PATH": "{125,7667}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7668,
+        "descrizione": "Terracina-MONTE PILUCCO",
+        "id_padre": 125,
+        "PATH": "{125,7668}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7669,
+        "descrizione": "Roccasecca dei Volsci-località MONTE CURIO",
+        "id_padre": 125,
+        "PATH": "{125,7669}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7670,
+        "descrizione": "Vallepietra",
+        "id_padre": 125,
+        "PATH": "{125,7670}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7671,
+        "descrizione": "Accumoli - Poggio di Terracino",
+        "id_padre": 125,
+        "PATH": "{125,7671}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7672,
+        "descrizione": "Amatrice - colle Moretto",
+        "id_padre": 125,
+        "PATH": "{125,7672}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7673,
+        "descrizione": "Borgorose - LOC. MONTE CASTELVECCHIO -( FRAZIONE SPEDINO )",
+        "id_padre": 125,
+        "PATH": "{125,7673}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7674,
+        "descrizione": "Borgorose - Torano",
+        "id_padre": 125,
+        "PATH": "{125,7674}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7675,
+        "descrizione": "Terracina-Loc. Monte Leano",
+        "id_padre": 125,
+        "PATH": "{125,7675}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7676,
+        "descrizione": "Accumoli - Colle Petrone",
+        "id_padre": 125,
+        "PATH": "{125,7676}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7677,
+        "descrizione": "Alatri - Monte Lungo",
+        "id_padre": 125,
+        "PATH": "{125,7677}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7678,
+        "descrizione": "Fondi-via Chincarelle",
+        "id_padre": 125,
+        "PATH": "{125,7678}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7679,
+        "descrizione": "Monte San Biagio-Via Littoria,9-3 ",
+        "id_padre": 125,
+        "PATH": "{125,7679}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7680,
+        "descrizione": "Frosinone-Palazzo della Provincia",
+        "id_padre": 125,
+        "PATH": "{125,7680}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7681,
+        "descrizione": "Amatrice - località preta",
+        "id_padre": 125,
+        "PATH": "{125,7681}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7682,
+        "descrizione": "Fondi-San Raffaele",
+        "id_padre": 125,
+        "PATH": "{125,7682}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7683,
+        "descrizione": "Fondi-Pantanello",
+        "id_padre": 125,
+        "PATH": "{125,7683}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7684,
+        "descrizione": "Fondi-via appia",
+        "id_padre": 125,
+        "PATH": "{125,7684}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7685,
+        "descrizione": "Lenola-localita Lenola",
+        "id_padre": 125,
+        "PATH": "{125,7685}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7686,
+        "descrizione": "Lenola-località Forcella",
+        "id_padre": 125,
+        "PATH": "{125,7686}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7687,
+        "descrizione": "Lenola-MONTE RAPAROLO",
+        "id_padre": 125,
+        "PATH": "{125,7687}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7688,
+        "descrizione": "Lenola-VIA L. DE LIBERO",
+        "id_padre": 125,
+        "PATH": "{125,7688}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7689,
+        "descrizione": "Itri-località CESCOLE",
+        "id_padre": 125,
+        "PATH": "{125,7689}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7690,
+        "descrizione": "Itri-località Monte Onofrio",
+        "id_padre": 125,
+        "PATH": "{125,7690}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7691,
+        "descrizione": "Campodimele - località Morione",
+        "id_padre": 125,
+        "PATH": "{125,7691}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7692,
+        "descrizione": "Gaeta-Monte Orlando",
+        "id_padre": 125,
+        "PATH": "{125,7692}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7693,
+        "descrizione": "Formia-Via Olivastro Spaventola",
+        "id_padre": 125,
+        "PATH": "{125,7693}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7694,
+        "descrizione": "Isola del Liri",
+        "id_padre": 125,
+        "PATH": "{125,7694}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7695,
+        "descrizione": "Rocca d'Arce-Via Roma, località cimitero",
+        "id_padre": 125,
+        "PATH": "{125,7695}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7696,
+        "descrizione": "Santopadre-località Monte Favone",
+        "id_padre": 125,
+        "PATH": "{125,7696}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7697,
+        "descrizione": "Arpino - località Contrada sant' Angelo",
+        "id_padre": 125,
+        "PATH": "{125,7697}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7698,
+        "descrizione": "Arpino - località Colle lo Zoppo",
+        "id_padre": 125,
+        "PATH": "{125,7698}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7699,
+        "descrizione": "Formia-località Castelonorato",
+        "id_padre": 125,
+        "PATH": "{125,7699}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7700,
+        "descrizione": "Campoli Appennino - località cimitero",
+        "id_padre": 125,
+        "PATH": "{125,7700}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7701,
+        "descrizione": "Esperia-Stazione di Esperia Inferiore",
+        "id_padre": 125,
+        "PATH": "{125,7701}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7702,
+        "descrizione": "Casalattico - località Montattico",
+        "id_padre": 125,
+        "PATH": "{125,7702}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7703,
+        "descrizione": "Cervaro - Via Piternis",
+        "id_padre": 125,
+        "PATH": "{125,7703}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7723,
+        "descrizione": "Fiume Garigliano",
+        "id_padre": 99,
+        "PATH": "{99,7723}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7724,
+        "descrizione": "Zona Garigliano",
+        "id_padre": 98,
+        "PATH": "{98,7724}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7725,
+        "descrizione": "Borgo Sabotino",
+        "id_padre": 98,
+        "PATH": "{98,7725}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7726,
+        "descrizione": "Fiume Garigliano",
+        "id_padre": 105,
+        "PATH": "{99,7723,7726}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7726,
+        "descrizione": "Fiume Garigliano",
+        "id_padre": 105,
+        "PATH": "{105,7726}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7727,
+        "descrizione": "Fiume Garigliano",
+        "id_padre": 103,
+        "PATH": "{99,7723,7727}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7727,
+        "descrizione": "Fiume Garigliano",
+        "id_padre": 103,
+        "PATH": "{103,7727}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7728,
+        "descrizione": "Zona Garigliano",
+        "id_padre": 101,
+        "PATH": "{98,7724,7728}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7728,
+        "descrizione": "Zona Garigliano",
+        "id_padre": 101,
+        "PATH": "{101,7728}",
+        "level": 2
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7729,
+        "descrizione": "Borgo Sabotino",
+        "id_padre": 101,
+        "PATH": "{98,7725,7729}",
+        "level": 3
+    },
+    {
+        "tipo": "ULIA",
+        "id": 7729,
+        "descrizione": "Borgo Sabotino",
+        "id_padre": 101,
+        "PATH": "{101,7729}",
+        "level": 2
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id_attivita": 145,
+        "descrizione": "Concentrazione media dei nutrienti nelle stazioni della rete ALL1-F",
+        "codice": "[RA-Conc-ALL1F]",
+        "data_attivazione": "2014-01-01 15:52:09+01",
+        "data_disattivazione": null,
+        "fk_id_tema": 2,
+        "fk_id_tipologia_attivita": 8,
+        "fk_id_strutture_arpa": 16,
+        "fk_id_tipologia_ulia": 10,
+        "fk_id_tipologia_ost": 3,
+        "fonte": "Arpalazio",
+        "livello": 1,
+        "tema_descrizione": "ACQUA",
+        "tipologia_attivita_descrizione": "Rapporto"
+    }
+]
