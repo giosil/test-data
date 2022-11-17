@@ -2,6 +2,12 @@
 
 Collection of data that can be used for development.
 
+## Update
+
+- `git add .`
+- `git commit -m "update"`
+- `git push`
+
 ## Revert and clean 
 
 - `git reset –hard` to discarde any changes not committed to tracked files in the working tree
